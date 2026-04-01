@@ -9,9 +9,9 @@
 
 <br/>
 
-## 🚀 The Journey: From Manual to Automation
+## 🚀 Scaling Quality: From Functional Depth to Automation Engineering
 
-With **5+ years of experience** in manual testing, my foundation is built on deep functional testing, defect management, and a genuine *think like a user* mindset.
+With 5+ years of experience in end-to-end Quality Assurance, I specialize in bridging the gap between deep functional manual testing and robust automated regression suites. My expertise lies in transforming complex 'user-first' scenarios into scalable automation frameworks to ensure continuous delivery.
 
 Committed to translating that expertise into robust automation frameworks — engineering scalable, maintainable solutions that drive measurable improvements in software quality across the entire delivery lifecycle.
 
@@ -92,6 +92,3 @@ Maestro               █████████████░░░░░░�
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blessybabu-qa&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
